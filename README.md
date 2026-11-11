@@ -66,15 +66,6 @@ No standalone source code was supplied with these files. The report contains a c
 - [Project report](Docs/project%20report.docx)
 - [Project summary](Docs/ESP32_CAM_PaddleOCR_Project_Summary_Updated.pdf)
 
-## Team
-
-- Adithya Mohanan
-- Devanand M
-- Aswin M
-- Yeadhu Krishna P
-- Abhinav SP
-- V Raj Narayanan
-
 **Project guide:** Prof. Tauseef Khan, VIT-AP University
 
 ## Skills demonstrated
